@@ -7,7 +7,7 @@ Modern Periodic Table which has actu-ally been created by three students :
 -Samyak Raj(16103010),
 Amit KumarMaurya(16103023)and,
 Ashish Ranjan(16103007).
-The Project has actually been created on the Qt platform with version 5.5.1 in C++.  We the three students work as a team to 
+The Project has actually been created on the Qt platform with version 5.5.1 in C++ and ubuntu 16.04.  We the three students work as a team to 
 design this periodic table which shows Atomic Number,Atomic symbol,atomic weight,electronicconfiguration,Year of Discovery,
 Name of the Discovererand,  an-other necessary information for each and every element.We acknowledge our project of
 Object Oriented Programming which we cre-ated created by using Qt platform in a way such thatwe really want to thank Pankaj Sir
@@ -23,5 +23,6 @@ Bibliography:-
 3:-Information——–(Wikipedia)
 4:-Introduction to Qt and tutorial——–(You Tube)
 5:-Programming Language——–(C++)
+6.Ubuntu (16.04)
 
 This project has been made for educational purpose only//
