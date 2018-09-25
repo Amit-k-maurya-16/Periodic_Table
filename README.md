@@ -4,9 +4,13 @@ The Periodic table is a tabular arrangement of the chemical elements orderedby t
 recurring chemical propertieswhose adopted structure shows periodic properties.The Modern Periodic table was actually 
 discovered by the Russian chemistDimitri Mendeleev in the year 1971.This is a brief Thesis of a project on 
 Modern Periodic Table which has actu-ally been created by three students :
--Samyak Raj(16103010),
+-
+
+Samyak Raj(16103010),
 Amit KumarMaurya(16103023)and,
 Ashish Ranjan(16103007).
+
+
 The Project has actually been created on the Qt platform with version 5.5.1 in C++ and ubuntu 16.04.  We the three students work as a team to 
 design this periodic table which shows Atomic Number,Atomic symbol,atomic weight,electronicconfiguration,Year of Discovery,
 Name of the Discovererand,  an-other necessary information for each and every element.We acknowledge our project of
